@@ -24,3 +24,5 @@ HtmlGenerator.new.generate do
   end
 end
 ```
+
+[Generated HTML](http://kevinchandler.github.io/html-generator.html)
